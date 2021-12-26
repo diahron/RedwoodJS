@@ -1,2 +1,2 @@
-# RedwoodJS---Tutor
+# RedwoodJS
 Learning RedwoodJS for the first time.
